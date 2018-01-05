@@ -11,6 +11,21 @@ mxGraph supports IE 11, Chrome 32+, Firefox 38+, Safari 7.1.x, 8.0.x, 9.1.x and 
 
 mxGraph uses no third-party software, it requires no plugins and can be integrated in virtually any framework.
 
+Official repository
+===================
+
+	https://github.com/jgraph/mxgraph
+
+NPM installation
+================
+Put this line to "dependencies" section to file "package.json"
+
+	"mxgraph": "git+https://github.com/hostar/mxgraph.git"
+	
+After that, run: 
+
+	npm install
+
 Getting Started
 ===============
 
